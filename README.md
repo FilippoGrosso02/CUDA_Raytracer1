@@ -6,16 +6,16 @@ main.exe scene.txt > output.ppm
 
 An example scene format is provided in the file: `r3_spheres_perspective.txt`.
 
-**OUTPUT IMAGE HERE**: `example_output.png`
+[Example Output](example_output.png "Rendered Image")
 
 ---
 
 ## Description
 
 This repository was created based on:
-- The first chapter of the raytracing in a week course for the C++ code.
-- The following tutorial on how to optimize it with CUDA:
+- The first 7 chapters of the raytracing in a week course for the C++ code:
   - [Ray Tracing in One Weekend](https://raytracing.github.io/)
+- The following tutorial on how to optimize it with CUDA:
   - [NVIDIA Blog: Accelerated Ray Tracing in CUDA](https://developer.nvidia.com/blog/accelerated-ray-tracing-cuda/)
 
 The code has been modified to handle:
