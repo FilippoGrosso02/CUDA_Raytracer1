@@ -6,7 +6,7 @@ main.exe scene.txt > output.ppm
 
 An example scene format is provided in the file: `r3_spheres_perspective.txt`.
 
-[Example Output](example_output.png "Rendered Image")
+![Example Output](example_output.png "Rendered Image")
 
 ---
 
