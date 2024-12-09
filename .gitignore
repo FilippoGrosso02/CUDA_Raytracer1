@@ -1,0 +1,6 @@
+cudart
+cudart.o
+out.jpg
+out.ppm
+
+.vs/
